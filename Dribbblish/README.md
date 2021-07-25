@@ -19,6 +19,13 @@
 ### Gruvbox
 ![gruvbox](gruvbox.png)
 
+### Mechanical
+> By [@owl4ce](https://github.com/owl4ce)
+![mechanical](mechanical.png)
+### Eyecandy
+> By [@owl4ce](https://github.com/owl4ce)
+![eyecandy](eyecandy.png)
+
 ##  Features
 ### Resizable sidebar
 
@@ -80,7 +87,7 @@ xpui.js_repl_8008 = ,${1}56,
 ```
 
 ## Change Color Schemes
-There are 9 color schemes you can choose: `base`, `white`, `dark`, `dracula`, `nord-dark`, `nord-light`, `samourai`, `purple`. Change scheme with commands:
+There are 11 color schemes you can choose: `base`, `white`, `dark`, `dracula`, `nord-dark`, `nord-light`, `samourai`, `purple`, `mechanical`, `eyecandy`. Change scheme with commands:
 ```
 spicetify config color_scheme <scheme name>
 spicetify apply

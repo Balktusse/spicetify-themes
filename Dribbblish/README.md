@@ -21,9 +21,11 @@
 
 ### Mechanical
 > By [@owl4ce](https://github.com/owl4ce)
+
 ![mechanical](mechanical.png)
 ### Eyecandy
 > By [@owl4ce](https://github.com/owl4ce)
+
 ![eyecandy](eyecandy.png)
 
 ##  Features
